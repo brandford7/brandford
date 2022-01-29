@@ -10,30 +10,28 @@ export const projects = [
     id: 0,
   },
   {
-    title: "E-Commerce",
-    description:
-      "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: "/images/2.png",
-    tags: ["React", "JavaScript"],
+    title: "NETFLIX CLONE",
+    description: "This is a clone of the frontend of netflix",
+    image: "/images/image4net.png",
+    tags: ["React", "Axios", "TMDB Api", "JavaScript"],
     source: "https://google.com",
     visit: "https://google.com",
     id: 1,
   },
   {
-    title: "Graph CMS Blog",
-    description:
-      "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-    image: "/images/3.jpg",
-    tags: ["Next JS", "Graph CMS", "Chakra UI", "Tailwind CSS"],
+    title: "GRAPH CMS BLOG",
+    description: "This is a blog created with GraphQL and Next Js",
+    image: "/images/image3bl.png",
+    tags: ["Next JS", "Graph CMS", "Chakra UI", "Tailwind CSS", "moment"],
     source: "https://github.com/brandford7/mygraphcmsblog",
     visit: "https://google.com",
     id: 2,
   },
   {
-    title: "Instagram Clone",
+    title: "INSTAGRAM CLONE",
     description:
       "This is a clone of Instagram with functionalities like posting images with caption ,liking and commenting on posts, Google Authentication",
-    image: "/images/4.jpg",
+    image: "/images/image2in.png",
     tags: ["Next JS", "React Moment", "Chakra UI", "Firebase"],
     source: "https://github.com/brandford7/instagram-clone",
     visit: "https://instagram-clone-eight-inky.vercel.app/",
@@ -42,13 +40,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  { year: 2019, text: "Started learning HTML, and CSS" },
+  { year: 2020, text: "Started learning Javascript and React" },
+  { year: 2021, text: "Started learning Next js" },
 ];
-
 
 export const data = [
   { number: 20, text: "Open Source Projects" },

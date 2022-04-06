@@ -5,8 +5,8 @@ export const projects = [
     description: "This is a clone of the frontend of netflix",
     image: "/images/image4net.png",
     tags: ["React", "Axios", "TMDB Api", "JavaScript"],
-    source: "https://google.com",
-    visit: "https://google.com",
+    source: "https://github.com/brandford7/react-netflix-clone",
+    visit: "https://brandford7.github.io/react-netflix-clone/",
     id: 1,
   },
   {
@@ -14,8 +14,8 @@ export const projects = [
     description: "This is a blog created with GraphQL and Next Js",
     image: "/images/image3bl.png",
     tags: ["Next JS", "Graph CMS", "Chakra UI", "Tailwind CSS", "moment"],
-    source: "https://github.com/brandford7/mygraphcmsblog",
-    visit: "https://google.com",
+    source: "https://github.com/brandford7/al-knowing",
+    visit: "https://all-knowing.vercel.app/",
     id: 2,
   },
   {

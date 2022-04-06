@@ -48,10 +48,10 @@ const Header = () => (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="github.com/brandford7">
+      <SocialIcons href="https://github.com/brandford7" target='blank'>
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="www.linkedin.com/in/brandford-junior-korang-teku">
+      <SocialIcons href="https://linkedin.com/in/brandford-junior-korang-teku">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
       <SocialIcons href="facebook.com">
